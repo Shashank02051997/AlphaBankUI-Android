@@ -29,7 +29,8 @@
                 android:text="Services"
                 android:textAlignment="center"
                 android:textColor="#000000"
-                android:textSize="18sp" />
+                android:textSize="18sp"
+                android:layout_marginRight="64dp"/>
 
         </android.support.v7.widget.Toolbar>
 
