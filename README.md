@@ -1,18 +1,17 @@
-# BusBookingUI-Android
-Check out the new style for App Design aims for Bus Booking Service...😉😀😁😎
+# AlphaBankUI-Android
+Check out the new style for App Design aims for Banking Application...😉😀😁😎
 
 ## Screenshots
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232227.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232255.png" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/AlphaBankUI-Android/blob/master/Screenshots/Screenshot_20190314-003606.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AlphaBankUI-Android/blob/master/Screenshots/Screenshot_20190314-003610.png" height="600" width="300" hspace="40">
 
-<img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232300.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232303.png" height="600" width="300" hspace="40">
-
+<img src="https://github.com/Shashank02051997/AlphaBankUI-Android/blob/master/Screenshots/Screenshot_20190314-005254.png" height="600" width="300" hspace="40">
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/BusBookingUI-Android/pulls).
+[pull requests](https://github.com/Shashank02051997/AlphaBankingUI-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
